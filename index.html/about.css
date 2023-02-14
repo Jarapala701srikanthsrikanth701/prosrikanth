@@ -1,0 +1,39 @@
+*{
+   /* background-image:url("html.jpg");*/
+    background-image: url("https://media.istockphoto.com/id/995038782/photo/heap-of-bread.jpg?s=170667a&w=0&k=20&c=ToHpNW51HreGqaEZtcu2oaXaD1k1NLlKn3uYNmmp7jU=");
+    background-repeat: no-repeat;
+    background-size: 100% 100%; 
+    
+    opacity: 90%;
+}
+.about{
+    background:white;
+    width: 800px;
+    height: 100%;
+    text-align: left;
+    color: red;
+}
+h1{
+    color: black;
+}
+p{
+    text-align: center;
+    background: white;
+    color: black;
+    font-size: larger;
+}
+img{
+    width: 800px;
+    height:40%;
+}
+/*.img1{
+    position:relative; left:800px; bottom:500px;
+    size-adjust: 70px;
+    
+}*/
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
